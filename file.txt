@@ -2,3 +2,5 @@ Chaitali Devops Engineer
 Success is a journey
 AWS/Devops
 github
+jenkins build trigger
+poll scm
